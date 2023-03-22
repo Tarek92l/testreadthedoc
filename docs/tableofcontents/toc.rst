@@ -2,9 +2,6 @@
 Table of contents
 =================
 
-Table of contents
-=================
-
 #. `Installation <installation.html>`__
 #. `License <license.html>`__
 #. `Quick start <quickstart.html>`__
