@@ -26,5 +26,6 @@ Table of contents
    license/license.rst
    quickstart/qs.rst
    userinterface/uimenu.rst
+   userinterface/perspective.rst
 
    *
