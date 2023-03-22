@@ -12,3 +12,4 @@ target. The purpose of this document is to help you to install, and to
 get started with this IDE based on ECLIPSE™ environment.
 
 --------------
+* [Table of contents](tableofcontents/toc.rst)
