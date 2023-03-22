@@ -4,8 +4,6 @@ System Workbench for Linux User Guide
 
 --------------
 
-.. _Overview:
-
 Overview
 ========
 
