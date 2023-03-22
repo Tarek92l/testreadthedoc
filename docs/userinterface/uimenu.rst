@@ -2,8 +2,11 @@
 User interface
 ==============
 
-#. `Perspective <perspective.html>`__
-#. `Editor <editor.html>`__
-#. `Views <views.html>`__
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   
+   perspective.rst
 
+   *
 --------------
