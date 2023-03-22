@@ -23,6 +23,6 @@ Table of contents
    :glob:
    
    index.rst
-
+   installation/inst.rst
 
    *
