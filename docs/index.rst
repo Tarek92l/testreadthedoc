@@ -2,8 +2,6 @@
 System Workbench for Linux User Guide  
 =====================================
 
---------------
-
 Overview
 ========
 
