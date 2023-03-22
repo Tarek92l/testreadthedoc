@@ -36,7 +36,7 @@ or 64 bits versions).
 
 .. _SoftRequirements:
 
-Sotfware Requirements:
+Software Requirements:
 ~~~~~~~~~~~~~~~~~~~~~~
 
 -  ECLIPSE™ C/C++ Development, Neon is the minimal version supported
