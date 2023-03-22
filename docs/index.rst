@@ -3,6 +3,7 @@ System Workbench for Linux User Guide
 =====================================
 
 Overview
+========
 ---------
 
 Welcome to the **System Workbench for Linux** reference manual. **System
