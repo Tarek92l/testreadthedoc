@@ -35,14 +35,14 @@ task ended in error to track which step is running.
 To add the Task tracker, Go to *Window > Show View > Other... > Platform
 > Task Tracker*.
 
-==== ======== ===================================
-Icon Status   Description
-==== ======== ===================================
-\    OK       The task has been successfully done
-\    On going The task is currently executed
-\    Pause    The task is pending
-\    Failed   The task has failed
-==== ======== ===================================
+======================================== ======== ===================================
+Icon                                     Status   Description
+======================================== ======== ===================================
+\.. image:: ../images/ui/viewsicon1.png  OK       The task has been successfully done
+\.. image:: ../images/ui/viewsicon2.png  On going The task is currently executed
+\.. image:: ../images/ui/viewsicon3.png  Pause    The task is pending
+\.. image:: ../images/ui/viewsicon4.png  Failed   The task has failed
+======================================== ======== ===================================
 
 Some actions can be trigger on this view, right-click on the element to
 show the menu:
