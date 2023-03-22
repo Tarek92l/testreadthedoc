@@ -24,5 +24,6 @@ Table of contents
    
    index.rst
    installation/inst.rst
+   license/license.rst
 
    *
