@@ -17,11 +17,6 @@ Contents:
 
 Table of contents
 =================
-.. contents:: Table of contents
-:local:
-:backlinks: none
-:depth: 1
-
 .. toctree::
    :maxdepth: 2
    :glob:
