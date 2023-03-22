@@ -14,3 +14,11 @@ get started with this IDE based on ECLIPSE™ environment.
 
 --------------
 
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   index.rst
+   tableofcontents/toc.rst
+
+   *
