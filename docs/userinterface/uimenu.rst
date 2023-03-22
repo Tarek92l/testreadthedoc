@@ -2,8 +2,8 @@
 User interface
 ==============
 
-#. `Perspective <interface/perspective.html>`__
-#. `Editor <interface/editor.html>`__
-#. `Views <interface/views.html>`__
+#. `Perspective <perspective.html>`__
+#. `Editor <editor.html>`__
+#. `Views <views.html>`__
 
 --------------
