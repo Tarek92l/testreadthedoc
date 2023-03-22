@@ -76,7 +76,7 @@ the type of development and the current set of user settings.
 +--------------------------------------+------------------+------------------+------------------+
 | Command                              | Name             | Description      | Availability     |
 +======================================+==================+==================+==================+
-|.. image:: ..images/ui/viewsicon5.png | Clear console    | Clears the       | Context menu and |
+|.. image:: ../images/ui/viewsicon5.png| Clear console    | Clears the       | Context menu and |
 |                                      |                  | currently active | view action      |
 |                                      |                  | console, and is  |                  |
 |                                      |                  | available as     |                  |
@@ -85,7 +85,7 @@ the type of development and the current set of user settings.
 |                                      |                  | contextual menu  |                  |
 |                                      |                  | item.            |                  |
 +--------------------------------------+------------------+------------------+------------------+
-|.. image:: ..images/ui/viewsicon6.png | Display selected | Opens a listing  | View action      |
+|.. image:: ../images/ui/viewsicon6.png| Display selected | Opens a listing  | View action      |
 |                                      | console          | of current       |                  |
 |                                      |                  | consoles and     |                  |
 |                                      |                  | allows you to    |                  |
@@ -93,17 +93,17 @@ the type of development and the current set of user settings.
 |                                      |                  | you would like   |                  |
 |                                      |                  | to see.          |                  |
 +--------------------------------------+------------------+------------------+------------------+
-|.. image:: ..images/ui/viewsicon7.png | Open console     | Opens a new      | View action      |
+|.. image:: ../images/ui/viewsicon7.png| Open console     | Opens a new      | View action      |
 |                                      |                  | console of the   |                  |
 |                                      |                  | selected type.   |                  |
 +--------------------------------------+------------------+------------------+------------------+
-|.. image:: ..images/ui/viewsicon8.png | Pin              | Pins the current | View action      |
+|.. image:: ../images/ui/viewsicon8.png| Pin              | Pins the current | View action      |
 |                                      |                  | console to       |                  |
 |                                      |                  | remain on top of |                  |
 |                                      |                  | all other        |                  |
 |                                      |                  | consoles.        |                  |
 +--------------------------------------+------------------+------------------+------------------+
-|.. image:: ..images/ui/viewsicon9.png | Scroll lock      | Changes if       | Context menu and |
+|.. image:: ../images/ui/viewsicon9.png| Scroll lock      | Changes if       | Context menu and |
 |                                      |                  | scroll lock      | view action      |
 |                                      |                  | should be        |                  |
 |                                      |                  | enabled or not   |                  |
