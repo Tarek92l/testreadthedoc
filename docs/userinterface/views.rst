@@ -35,19 +35,21 @@ task ended in error to track which step is running.
 To add the Task tracker, Go to *Window > Show View > Other... > Platform
 > Task Tracker*.
 
-======================================== ======== ===================================
-Icon                                     Status   Description
-======================================== ======== ===================================
-|image1|                                OK       The task has been successfully done
-|image2|                                On going The task is currently executed
-|image3|                                Pause    The task is pending
-|image4|                                Failed   The task has failed
-======================================== ======== ===================================
-
-.. |image1| image:: ../images/ui/viewsicon1.png
-.. |image2| image:: ../images/ui/viewsicon2.png
-.. |image3| image:: ../images/ui/viewsicon3.png
-.. |image4| image:: ../images/ui/viewsicon4.png
++--------------------------------------+------------------+------------------+
+| Icon                                 | Status           | Description      | 
++======================================+==================+==================+
+|.. image:: ../images/ui/viewsicon1.png| OK               |The task has been |
+|                                      |                  |successfully done |
++--------------------------------------+------------------+------------------+
+|.. image:: ../images/ui/viewsicon2.png| On going         |The task is       |
+|                                      |                  |currently executed|
++--------------------------------------+------------------+------------------+
+|.. image:: ../images/ui/viewsicon3.png| Pause            | The task is      |
+|                                      |                  | pending          |
++--------------------------------------+------------------+------------------+
+|.. image:: ../images/ui/viewsicon4.png| Failed           | The task has     |
+|                                      |                  | failed           |
++--------------------------------------+------------------+------------------+
 
 
 Some actions can be trigger on this view, right-click on the element to
@@ -65,6 +67,7 @@ Packages Build tracker
 The **Package Build tracker** view lists all the package definitions
 added to the platform. The user can know the build status for any
 packages.
+
 
 
 To add the Packages Build tracker, *Go to Window > Show View > Other...
