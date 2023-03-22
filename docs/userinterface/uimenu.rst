@@ -7,6 +7,7 @@ User interface
    :glob:
    
    perspective.rst
+   views.rst
 
    *
 --------------
