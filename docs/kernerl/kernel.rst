@@ -11,8 +11,8 @@ The plug-in Ac6 Linux Kernel features are described in the following part. With 
    :maxdepth: 1
    :numbered:
    
-    createkernel.rst 
-    kernelsettintgs.rst
-    kernelconf.rst
+   createkernel.rst 
+   kernelsettintgs.rst
+   kernelconf.rst
     
    *
