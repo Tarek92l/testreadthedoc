@@ -8,5 +8,5 @@
    license/license.rst
    quickstart/qs.rst
    userinterface/uimenu.rst
-
+   index.rst
    *
