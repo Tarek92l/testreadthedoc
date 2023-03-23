@@ -11,13 +11,10 @@ Ac6 Library is a set of plugins to support the Platforms and package definitions
 .. toctree::
    :maxdepth: 1
 
-   Home<self>
-   installation/inst.rst
-   license/license.rst
-   quickstart/qs.rst
-   userinterface/uimenu.rst
-   gettingstarted/gettingstarted.rst
-   kernerl/kernel.rst
-   rootfs/rootfs.rst
+   create_library.rst
+   manage_library.rst
+   export_library.rst
+   import_library.rst
+   pref_library.rst 
 
    *
