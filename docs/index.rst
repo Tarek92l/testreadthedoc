@@ -17,9 +17,8 @@ Contents:
 
 Table of contents
 =================
-
+.. toctree::
    :maxdepth: 2
-   :glob:
    
    index.rst
    installation/inst.rst
