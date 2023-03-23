@@ -216,10 +216,10 @@ forbidden.
 |pic1| |pic2|
 
 .. |pic1| image:: ../images/gettingstarted/ac6platform/platform_edit9.png
-   :width: 40%
+   :width: 42%
 
 .. |pic2| image:: ../images/gettingstarted/ac6platform/platform_edit10.png
-   :width: 40%
+   :width: 42%
 
 When a dependency is set, a link is defined between the tasks from the
 two packages and the complete build sequence is updated following the
