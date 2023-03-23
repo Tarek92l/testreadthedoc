@@ -258,5 +258,5 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # The logo to display in the sidebar
-html_logo = 'resources/TrustedFirmware-Logo_standard-white.png'
+html_logo = 'images/AC6.png'
 
