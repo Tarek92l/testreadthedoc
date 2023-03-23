@@ -9,7 +9,6 @@ The plug-in Ac6 Linux Kernel features are described in the following part. With 
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
    
    createkernel.rst 
    kernelsettintgs.rst
