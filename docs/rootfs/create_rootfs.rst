@@ -13,5 +13,5 @@ click on Finish button. Your project will be create and is accessible on
 your workspace. You can choose the location of your project but it is
 recommended to use the default location.
 
-.. image:: ../images/gettingstarted/rootfs/rootfsimg1.png
+.. image:: ../images/gettingstarted/rootfs/rootfsimg2.png
 
