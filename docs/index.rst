@@ -19,7 +19,6 @@ Table of contents
 
 .. toctree::
    :maxdepth: 1
-   :numbered:
 
    Home<self>
    installation/inst.rst
