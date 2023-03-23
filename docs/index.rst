@@ -27,5 +27,6 @@ Table of contents
    quickstart/qs.rst
    userinterface/uimenu.rst
    gettingstarted/gettingstarted.rst
+   kernerl/kernel.rst
 
    *
