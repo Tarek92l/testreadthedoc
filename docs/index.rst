@@ -28,6 +28,6 @@ Table of contents
    gettingstarted/gettingstarted.rst
    kernerl/kernel.rst
    rootfs/rootfs.rst
-   ibrary/library.rst
+   library/library.rst
 
    *
