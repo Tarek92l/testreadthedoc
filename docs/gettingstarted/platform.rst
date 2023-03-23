@@ -16,7 +16,6 @@ to build the platform has to be GCC-based.
    
     create_platform.rst
     import_platform.rst
-    gettingstarted.rs
     platform_structure.rst
     platform_props.rst
     platform_edit.rst
