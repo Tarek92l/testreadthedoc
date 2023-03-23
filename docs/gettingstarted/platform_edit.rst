@@ -216,7 +216,7 @@ forbidden.
 |pic1| |pic2|
 
 .. |pic1| image:: ../images/gettingstarted/ac6platform/platform_edit9.png
-   :width: 40%
+   :width: 41%
 
 .. |pic2| image:: ../images/gettingstarted/ac6platform/platform_edit10.png
    :width: 41%
