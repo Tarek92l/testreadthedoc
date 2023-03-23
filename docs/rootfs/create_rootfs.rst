@@ -1,6 +1,6 @@
 =========================
 Create a Rootfs project
-========================
+=========================
 
 To create a new Rootfs project, Go to File > New > Project... and select
 Rootfs project under Ac6 Tools folder. Then click on the Next button to
