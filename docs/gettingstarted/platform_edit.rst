@@ -213,7 +213,7 @@ depends and the type of dependency. **Warning:** Cyclic dependency is
 forbidden.
 
 .. image:: ../images/gettingstarted/ac6platform/platform_edit8.png
-|pic1||pic2|
+|pic1| |pic2|
 
 .. |pic1| image:: ../images/gettingstarted/ac6platform/platform_edit9.png
    :width: 40%
