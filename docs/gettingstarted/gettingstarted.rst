@@ -1,8 +1,8 @@
 ====================
 Ac6 Platform project
-====================
+
 About the platform
-==================
+------------------
 
 The platform project is an ECLIPSE™ project. It defines your entire
 Linux environment definition. The platform consists of a set of items
