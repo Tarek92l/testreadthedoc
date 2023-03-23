@@ -256,3 +256,7 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+# The logo to display in the sidebar
+html_logo = 'resources/TrustedFirmware-Logo_standard-white.png'
+
