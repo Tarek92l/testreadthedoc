@@ -16,7 +16,7 @@ Contents:
 .. _Contents:
 
 Table of contents
-=================
+
 .. toctree::
    :maxdepth: 2
    
