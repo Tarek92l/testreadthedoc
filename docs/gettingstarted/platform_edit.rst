@@ -213,13 +213,13 @@ depends and the type of dependency. **Warning:** Cyclic dependency is
 forbidden.
 
 .. image:: ../images/gettingstarted/ac6platform/platform_edit8.png
-|pic1| any text |pic2|
+|pic1||pic2|
 
 .. |pic1| image:: ../images/gettingstarted/ac6platform/platform_edit9.png
-   :width: 45%
+   :width: 40%
 
 .. |pic2| image:: ../images/gettingstarted/ac6platform/platform_edit10.png
-   :width: 45%
+   :width: 40%
 
 When a dependency is set, a link is defined between the tasks from the
 two packages and the complete build sequence is updated following the
