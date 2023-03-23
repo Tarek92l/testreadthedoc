@@ -27,5 +27,6 @@ Table of contents
    userinterface/uimenu.rst
    gettingstarted/gettingstarted.rst
    kernerl/kernel.rst
+   rootfs/rootfs.rst
 
    *
