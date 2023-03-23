@@ -10,8 +10,7 @@ Linux environment definition. The platform consists of a set of items
 is used as a hub to control and configure the build. The compiler used
 to build the platform has to be GCC-based.
 
---------------
-===============
+
 .. toctree::
    
    platform.rst
