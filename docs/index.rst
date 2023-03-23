@@ -26,6 +26,6 @@ Table of contents
    license/license.rst
    quickstart/qs.rst
    userinterface/uimenu.rst
-   gettingstarted/gettingstarted.rs
+   gettingstarted/gettingstarted.rst
 
    *
