@@ -11,6 +11,7 @@ to build the platform has to be GCC-based.
 
 
 .. toctree::
+   :maxdepth: 1
    
    platform.rst
    create_platform.rst
