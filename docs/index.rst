@@ -22,7 +22,6 @@ Table of contents
    :numbered:
 
    Home<self>
-   homepage.rst
    installation/inst.rst
    license/license.rst
    quickstart/qs.rst
