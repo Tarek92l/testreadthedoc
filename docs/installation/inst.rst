@@ -27,7 +27,7 @@ Prerequisites
 
 If you do not have ECLIPSE™ installed on your machine. You should grab
 the appropriate ECLIPSE™ package from
-`www.eclipse.org <www.eclipse.org>`__ website.
+`www.eclipse.org <https://www.eclipse.org>`__ website.
 
 ECLIPSE™ itself is in great part written in Java; you thus must install
 the ORACLE® Java Runtime Environment (JRE); you must install a version
